@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abb3rrant
+- 👀 I’m interested in Offensive Cyber Operation to include Adversary Emulation and Penetration Testing.
+- 💞️ I’m looking to collaborate on Red Team Attack Engineering and Applying Cyber Threat Intelligence.
+- ⚡ Fun fact: I use Arch btw
