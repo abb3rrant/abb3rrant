@@ -42,7 +42,7 @@ I specialize in **Offensive Cyber Operations**, including Adversary Emulation an
 > DNS Exfiltration Server & Client for DNS Exfil Proof of Concept
 
 - Exfiltrates arbitrary data via DNS as a covert channel
-- Payloads AES-256-GCM encryptied and Base36ed into DNS labels
+- **AES-256-GCM Encryption** with Base36 DNS-safe encoding
 - Exfiltrates using A-records or TXT-records
 - Very quick, great for generating DNS logs/alerts
 - Created as a Proof-of-Concept to validate exfiltration over DNS
