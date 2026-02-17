@@ -38,6 +38,15 @@ I specialize in **Offensive Cyber Operations**, including Adversary Emulation an
 - Lightweight orchestration server for NAT traversal coordination
 - Perfect for Red Team infrastructure and covert channels
 
+### :ninja: [DNS-Exfil](https://github.com/abb3rrant/DNS-Exfil)
+> DNS Exfiltration Server & Client for DNS Exfil Proof of Concept
+
+- Exfiltrates arbitrary data via DNS as a covert channel
+- Payloads AES-256-GCM encryptied and Base36ed into DNS labels
+- Exfiltrates using A-records or TXT-records
+- Very quick, great for generating DNS logs/alerts
+- Created as a Proof-of-Concept to validate exfiltration over DNS
+
 ---
 
 ## 🛠️ Other Tools
