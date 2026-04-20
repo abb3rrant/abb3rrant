@@ -22,7 +22,7 @@ I specialize in **Offensive Cyber Operations**, including Adversary Emulation an
 
 ## 🔧 Featured Projects
 
-### 🕵️ [Unkn0wnC2](https://github.com/abb3rrant/Unkn0wnC2)
+### 🕵️ [Unkn0wnC2](https://github.com/abb3rrant/Unkn0wnC2) (Release TBD)
 > DNS-based Command & Control framework for Red Team adversary emulation
 
 - **Shadow Mesh Architecture** - Multi-domain beacons for improved throughput and resilience
