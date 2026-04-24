@@ -26,7 +26,7 @@ I specialize in **Offensive Cyber Operations**, including Adversary Emulation an
 > DNS-based Command & Control framework for Red Team adversary emulation
 
 - **Shadow Mesh Architecture** - Multi-domain beacons for improved throughput and resilience
-- **Malleable Timing** - Control both beacon check-in and data exfiltration timing to evade detection
+- **Malleable Payloads & Timing** - Control both beacon check-in and data exfiltration timing to evade detection
 - **AES-256-GCM Encryption** with Base36 DNS-safe encoding
 - Built for highly restrictive environments (e.g., cloud VPCs with DNS-only egress)
 
