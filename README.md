@@ -38,6 +38,15 @@ I specialize in **Offensive Cyber Operations**, including Adversary Emulation an
 - Lightweight orchestration server for NAT traversal coordination
 - Perfect for Red Team infrastructure and covert channels
 
+### 🌎 [OCI-Visualizer](https://github.com/abb3rrant/OCI-Visualizer)
+> Visualize OCI Infra with GraphQL
+
+- Export Oracle Cloud Infra data via a script that uses OCI CLI
+- Import data to visualize with GraphQL
+- Allows regex search of all OCI resources imported
+- Supports most OCI resources
+- View network topology, security audit IAW CIS controls, snapshot diffs, and more
+
 ### :ninja: [DNS-Exfil](https://github.com/abb3rrant/DNS-Exfil)
 > DNS Exfiltration Server & Client for DNS Exfil Proof of Concept
 
