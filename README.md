@@ -53,6 +53,7 @@ I specialize in **Offensive Cyber Operations**, including Adversary Emulation an
 
 | Repository | Description |
 |------------|-------------|
+| [Simple-Shell](https://github.com/abb3rrant/Simple-Shell) | Basic C and Golang Shells for OSCP |
 | [Simple-DNS-Server](https://github.com/abb3rrant/Simple-DNS-Server) | Lightweight DNS server in Go |
 | [NessusMerge](https://github.com/abb3rrant/NessusMerge) | Merge Nessus scan results |
 | [data-generator](https://github.com/abb3rrant/data-generator) | Generate files with arbitrary data |
