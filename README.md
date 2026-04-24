@@ -39,7 +39,7 @@ I specialize in **Offensive Cyber Operations**, including Adversary Emulation an
 - Perfect for Red Team infrastructure and covert channels
 
 ### 🌎 [OCI-Visualizer](https://github.com/abb3rrant/OCI-Visualizer)
-> Visualize OCI Infra with GraphQL
+> Visualize Oracle Cloud Infra with GraphQL
 
 - Export Oracle Cloud Infra data via a script that uses OCI CLI
 - Import data to visualize with GraphQL
