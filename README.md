@@ -30,7 +30,7 @@ I specialize in **Offensive Cyber Operations**, including Adversary Emulation an
 - **AES-256-GCM Encryption** with Base36 DNS-safe encoding
 - Built for highly restrictive environments (e.g., cloud VPCs with DNS-only egress)
 
-### 🔓 [HolePunch (WiP)](https://github.com/abb3rrant/HolePunch)
+### 🔓 [HolePunch](https://github.com/abb3rrant/HolePunch)
 > UDP hole punching VPN-like tool for P2P connections through NAT
 
 - Establishes encrypted peer-to-peer connections through firewalls
