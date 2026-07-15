@@ -22,13 +22,14 @@ I specialize in **Offensive Cyber Operations**, including Adversary Emulation an
 
 ## 🔧 Featured Projects
 
-### 🕵️ [Unkn0wnC2](https://github.com/abb3rrant/Unkn0wnC2) (Release TBD)
+### 🕵️ [Unkn0wnC2](https://github.com/abb3rrant/Unkn0wnC2)
 > DNS-based Command & Control framework for Red Team adversary emulation
 
 - **Shadow Mesh Architecture** - Multi-domain beacons for improved throughput and resilience
 - **Malleable Payloads & Timing** - Control both beacon check-in and data exfiltration timing and format to evade detection
 - **AES-256-GCM Encryption** with Base36 DNS-safe encoding
 - Built for highly restrictive environments (e.g., cloud VPCs with DNS-only egress)
+- Supports Post-Exploitation Wraith Beacon for advanced operations and AV/EDR evasion (Not-Public)
 
 ### 🔓 [HolePunch](https://github.com/SubRosaLabs/HolePunch) (Release TBD)
 > UDP hole punching VPN-like tool for P2P connections through NAT
