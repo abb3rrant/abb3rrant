@@ -31,7 +31,7 @@ I specialize in **Offensive Cyber Operations**, including Adversary Emulation an
 - Built for highly restrictive environments (e.g., cloud VPCs with DNS-only egress)
 - Supports Post-Exploitation Wraith Beacon for advanced operations and AV/EDR evasion (Not-Public)
 
-### 🔓 [HolePunch](https://github.com/SubRosaLabs/HolePunch) (Release TBD)
+### 🔓 [HolePunch](https://github.com/SubRosaLabs/HolePunch)
 > UDP hole punching VPN-like tool for P2P connections through NAT
 
 - Establishes encrypted peer-to-peer connections through firewalls
